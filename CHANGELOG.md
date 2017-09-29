@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.64.0
+
+* Update gems
+
 ## 0.63.0
 
 * Rails 5.1.4
